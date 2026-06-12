@@ -9,7 +9,7 @@
 </div>
 
 <div class="links">
-  <a href="/privacy-policy">Privacy policy</a>
+  <a href="/sequence-timer/privacy-policy">Privacy policy</a>
 </div>
 
 
