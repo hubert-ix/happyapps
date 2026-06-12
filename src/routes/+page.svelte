@@ -5,7 +5,7 @@
 <h1>HappyApps</h1>
 
 <div class="subtitle">
-  Simple, joyful Android apps.
+  Simple, happy Android apps.
 </div>
 
 <div class="links">
